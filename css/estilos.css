@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(#faccf7, #f7dda6);
+}
+.navbar{
+    background-color: #faccf7 !important;
+}
+.navbar img{
+    width: 50px; 
+}
+.navbar a{
+    color: #f11a97 !important;
+}
+
+.jumbotron{
+    
+    color: #f11a97;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.secciones{
+    margin-top: 20px;
+    color: #f11a97;
+}
+.col{
+    height: 260px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+.row img{
+    height: 100px;
+}
+h2{
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+.card{
+    background-color: rgba(255, 128, 82, 0.589);
+    width: 200px;
+    height: 100%;
+}
+.btn{
+    color: #cc0e7d;
+    background-color: #faccf7;
+    border: #faccf7;
+}
+footer{
+    background-color: #f7dda6;
+    height: auto;
+    text-align: center;
+    padding-top: 10px;
+    grid-column: 1/2;
+    grid-row: 3/4;
+}
+
+.redesLogos{
+    padding: 10px 0 10px 0;
+    height: 40px;
+}
+.pieDePagina{
+    padding: 10px 0 10px 0;
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #cc0e7d;
+} 
+.logoWhat{
+    height: 50px;
+    position: fixed;
+    right: 1%;
+    bottom: 30%;
+}
